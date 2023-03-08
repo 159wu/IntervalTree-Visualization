@@ -2,7 +2,7 @@
 可视化区间树插入、删除、查询过程。
 
 ## 主界面
-![image](https://img-blog.csdnimg.cn/d83b17052d204a798676a3807c2fd327.png#pic_center)
+![image](https://img-blog.csdnimg.cn/caac8b8b4ff14a468aa1c84abce17d6f.png#pic_center)
 
 ## 操作
 在使用某个模块功能时，该模块对应的按钮需要被按下。
